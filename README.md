@@ -1,70 +1,87 @@
-# Getting Started with Create React App
+# Aastika Banstola's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences as a Computer Science student at Fisk University. Feel free to explore my work, projects, and more about me.
 
-## Available Scripts
+## Contact Information
+- **Name**: Aastika Banstola
+- **Phone**: (318) 605-8126
+- **Email**: [abanstola07@my.fisk.edu](mailto:abanstola07@my.fisk.edu)
+- **LinkedIn**: [Aastika Banstola](https://www.linkedin.com/in/aastika-)
+- **GitHub**: [aastikab](https://github.com/aastikab)
 
-In the project directory, you can run:
+## Education
+**Fisk University**  
+*Bachelor of Science in Computer Science, Minor in Mathematics*  
+GPA: 4.00/4.00 (Expected May 2026)  
 
-### `npm start`
+### Relevant Courses:
+- Introduction to Computer Programming
+- Data Structures and Algorithm
+- Computer Architecture
+- Web Development
+- Database Management
+- Calculus I, II
+- Statistics
+- Discrete Mathematics
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Skills
+- **Languages**: Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, C#, Swift
+- **Frameworks**: .NET, ReactJS, Node.js, Next.js
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Jenkins, CI/CD, Linux, JSON
+- **Methodologies**: Agile, Object-Oriented Programming, Data Structures & Algorithms
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Experience
 
-### `npm test`
+### Software Development Extern | NextGenChoice  
+*May 2024 — July 2024*  
+- Improved flagship products through redesigning user authentication and data processing in Java and JavaScript ES6+, enhancing functionality by 20%.
+- Implemented unit testing and CI/CD, optimizing project delivery by 25% and reducing deployment issues by 30%.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### IT Support Specialist | University of Louisiana at Monroe  
+*Aug 2022 — May 2024*  
+- Solved over 100 IT-related tickets per month, achieving 95% user satisfaction.
+- Decreased system breakdowns by 40% and debugged a critical inventory management program using Python.
 
-### `npm run build`
+### Web Development Intern | Leapfrog Technology  
+*Sept 2021 — July 2022*  
+- Integrated payment gateway, inventory system, and customer feedback with 99.9% uptime, boosting revenues by 25%.
+- Optimized an e-commerce site with ReactJS, NodeJS, and JavaScript, improving site interactions by 30% and reducing cart abandonment by 20%.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Projects
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### ChronoHelix | [GitHub](https://github.com/aastikab)  
+*Nov 2024 — Present*  
+- Building an AI-based solution to assemble shattered ancient DNA sequences using TensorFlow, PyTorch, and Graph Neural Networks (GNNs) for bioinformatics improvement.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### ECo-nnect (Group Project) | [GitHub](https://github.com/aastikab)  
+*Nov 2024*  
+- Developed a web app to help users make more sustainable choices with eco-friendly alternatives and DIY product repurposing ideas.  
+- Integrated HIPAA-compliant features for secure personalized eco-friendly suggestions.
 
-### `npm run eject`
+### InstaResume | [GitHub](https://github.com/aastikab)  
+*Aug 2024 — Nov 2024*  
+- Built an automated resume and cover letter generator using Node.js and OpenAI GPT API, reducing document creation time by 90% with 98% formatting accuracy.  
+- Developed a responsive front-end with ReactJS, improving user satisfaction by 85%.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Awards & Campus Involvements
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **2023-24**:  
+  - Member, Women of the World  
+  - Interview Prep Scholar, Girls Who Code  
+  - Participant, Amazon’s Campus Summer Series  
+  - Affiliate, Women Techmakers  
+  - Member, Girls Who Code College Loop at Fisk University  
+  - Member, Rewriting the Code (RTC)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **2022-23**:  
+  - Best Student Worker Award, University of Louisiana at Monroe  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contact Me
+Feel free to reach out to me via [email](mailto:abanstola07@my.fisk.edu) or connect on [LinkedIn](https://www.linkedin.com/in/aastika-).  
+You can explore my projects and code on [GitHub](https://github.com/aastikab).
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Thank you for visiting my portfolio!
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
