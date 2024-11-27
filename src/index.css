@@ -1,3 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +10,70 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #f0f0f0, #e2e8f0); /* Gradient background */
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+/* Custom classes for portfolio components */
+.portfolio-container {
+  @apply container mx-auto p-4 bg-gray-100 rounded-lg shadow-lg; /* Added shadow and rounded corners */
+}
+
+.portfolio-heading {
+  @apply text-4xl font-bold mb-6 text-blue-600 text-center; /* Centered heading */
+}
+
+.portfolio-section {
+  @apply mb-8 bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition duration-300; /* Hover effect */
+}
+
+.section-heading {
+  @apply text-2xl font-bold mb-4 text-gray-800; /* Darker color for better contrast */
+}
+
+.blog-title {
+  @apply text-xl font-semibold mb-2 text-blue-500; /* Blue color for blog titles */
+}
+
+.blog-content {
+  @apply mb-4 text-gray-700; /* Softer text color for content */
+}
+
+.button {
+  @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transition duration-300; /* Button styling */
+}
+
+.memory-game-grid {
+  @apply grid grid-cols-4 gap-4; /* Game grid */
+}
+
+.memory-card {
+  @apply w-16 h-16 flex items-center justify-center text-3xl bg-gray-200 rounded-lg cursor-pointer; /* Card styling */
+}
+
+.memory-card-flipped {
+  @apply bg-green-300; /* Flipped card style */
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+  .portfolio-heading {
+    @apply text-3xl; /* Responsive heading */
+  }
+
+  .section-heading {
+    @apply text-xl; /* Responsive section heading */
+  }
+
+  .memory-game-grid {
+    @apply grid-cols-3; /* Adjust grid for smaller screens */
+  }
+
+  .memory-card {
+    @apply w-12 h-12 text-2xl; /* Adjust card size for smaller screens */
+  }
 }
